@@ -9,7 +9,7 @@ I was a mentor on Django Girls (Wrocław & Kraków) and used to teach Python at 
 I like to organize things. I'm coorganizer of Wrocław TypeScript meetup.
 I'm helping in coordination of Django Girls Wrocław.
 If you need a place & help with preparing some event do not hesitate to contact me via
-[twitter](https://twitter.com/krzysztof_zuraw) or drop me an [email]().
+[twitter](https://twitter.com/krzysztof_zuraw) or drop me an [email](mailto:github@kzuraw.com).
 
 ## Recent blog posts ✍️
 
