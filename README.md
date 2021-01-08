@@ -1,13 +1,23 @@
-### Hi there 👋
+# Hello 👋
 
-I'm Krzysztof Żuraw - self-taught frontend developer who is currently learning design. I enjoy working with TypeScript + React.
+I'm Krzysztof Żuraw - self-taught frontend developer. I enjoy working with TypeScript + React.
 
-- 🔭 I’m currently working on coffee brewing tracker
-- 🌱 I’m currently learning CSS + design
-- 👯 I’m looking to collaborate on open source project in TS/JS + React ecosystem
-- 🤔 I’m looking for help with design
-- 💬 Ask me about TypeScript & React
-- 📫 How to reach me: https://krzysztofzuraw.com/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like Chemex
+If I'm not coding I like to brew some good coffee with Chemex or Aeropress. You can also find me in
+various food spots (tasty ones) around Wrocław. I also like giving back to community so a few times
+I was a mentor on Django Girls (Wrocław & Kraków) and used to teach Python at Code Geeks Carrots Wrocław.
 
+I like to organize things. I'm coorganizer of Wrocław TypeScript meetup.
+I'm helping in coordination of Django Girls Wrocław.
+If you need a place & help with preparing some event do not hesitate to contact me via
+[twitter](https://twitter.com/krzysztof_zuraw) or drop me an [email]().
+
+## Recent blog posts ✍️
+
+<!-- FEED-START -->
+
+- [TIL - Chrome has emulate focused page](https://krzysztofzuraw.com/blog/2020/chrome-emulate-focused-page)
+- [TIL - how height:auto works](https://krzysztofzuraw.com/blog/2020/height-auto)
+- [Tooling overload in JS](https://krzysztofzuraw.com/blog/2020/tooling-overload-js)
+- [Stack & Column in CSS-in-JS](https://krzysztofzuraw.com/blog/2020/stack-column-css-in-js)
+- [Intl Collator in JavaScript](https://krzysztofzuraw.com/blog/2020/js-intl-collator)
+<!-- FEED-END -->

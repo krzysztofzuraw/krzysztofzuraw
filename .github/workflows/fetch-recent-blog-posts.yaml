@@ -1,0 +1,24 @@
+name: Fetch recent blog posts
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  fetch-recent-blog-posts:
+    name: Fetch recent blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: "12"
+      - name: Install node dependencies
+        run: npm ci
+      - name: Run node script
+        run: npm run build
+      - name: Git setup
+        run: git config --global user.email readme-bot@example.com && git config --global user.name readme-bot
+      - name: Git commit README.md file
+        run: git diff --quiet && git diff --staged --quiet || git commit -am 'chore: update readme (bot)' && git push
