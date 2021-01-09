@@ -14,7 +14,6 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
-
 - [TIL - Chrome has emulate focused page](https://krzysztofzuraw.com/blog/2020/chrome-emulate-focused-page)
 - [TIL - how height:auto works](https://krzysztofzuraw.com/blog/2020/height-auto)
 - [Tooling overload in JS](https://krzysztofzuraw.com/blog/2020/tooling-overload-js)
