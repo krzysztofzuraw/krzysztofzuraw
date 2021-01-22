@@ -14,9 +14,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Distractions tips & tricks](https://krzysztofzuraw.com/blog/2021/distractions-tips-tricks)
 - [TIL - Chrome has emulate focused page](https://krzysztofzuraw.com/blog/2020/chrome-emulate-focused-page)
 - [TIL - how height:auto works](https://krzysztofzuraw.com/blog/2020/height-auto)
 - [Tooling overload in JS](https://krzysztofzuraw.com/blog/2020/tooling-overload-js)
 - [Stack & Column in CSS-in-JS](https://krzysztofzuraw.com/blog/2020/stack-column-css-in-js)
-- [Intl Collator in JavaScript](https://krzysztofzuraw.com/blog/2020/js-intl-collator)
 <!-- FEED-END -->
