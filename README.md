@@ -14,9 +14,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Alfred Snippet workflow](https://krzysztofzuraw.com/blog/2021/alfred-snippet-workflow)
 - [HTML has a base tag](https://krzysztofzuraw.com/blog/2021/html-base-tag)
 - [Distractions tips & tricks](https://krzysztofzuraw.com/blog/2021/distractions-tips-tricks)
 - [TIL - Chrome has emulate focused page](https://krzysztofzuraw.com/blog/2020/chrome-emulate-focused-page)
 - [TIL - how height:auto works](https://krzysztofzuraw.com/blog/2020/height-auto)
-- [Tooling overload in JS](https://krzysztofzuraw.com/blog/2020/tooling-overload-js)
 <!-- FEED-END -->
