@@ -1,6 +1,7 @@
 # Hello 👋
 
 I'm Krzysztof Żuraw - self-taught frontend developer. I enjoy working with TypeScript + React.
+After hours I play with old plain HTML, CSS & JS.
 
 If I'm not coding I like to brew some good coffee with Chemex or Aeropress. You can also find me in
 various food spots (tasty ones) around Wrocław. I also like giving back to community so a few times
