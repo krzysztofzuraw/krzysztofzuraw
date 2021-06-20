@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [On reading paper magazines](https://krzysztofzuraw.com/blog/2021/paper-magazines)
 - [New version of writer mode](https://krzysztofzuraw.com/blog/2021/writer-mode-new-version)
 - [On generating social images for this blog](https://krzysztofzuraw.com/blog/2021/social-images)
 - [Alfred Snippet workflow](https://krzysztofzuraw.com/blog/2021/alfred-snippet-workflow)
 - [HTML has a base tag](https://krzysztofzuraw.com/blog/2021/html-base-tag)
-- [Distractions tips & tricks](https://krzysztofzuraw.com/blog/2021/distractions-tips-tricks)
 <!-- FEED-END -->
