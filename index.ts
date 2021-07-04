@@ -3,7 +3,7 @@ import axios from "axios";
 import parser from "xml2json";
 import fs from "fs";
 
-const FEED_URL = "https://krzysztofzuraw.com/feeds/all.rss.xml";
+const FEED_URL = "https://krzysztofzuraw.com/feed.xml";
 const TAG_OPEN = `<!-- FEED-START -->`;
 const TAG_CLOSE = `<!-- FEED-END -->`;
 
