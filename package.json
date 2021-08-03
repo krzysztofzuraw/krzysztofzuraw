@@ -1,10 +1,11 @@
 {
   "name": "krzysztofzuraw",
   "version": "0.1.0",
-  "description": "I'm Krzysztof Żuraw - self-taught frontend developer. I enjoy working with TypeScript + React.",
+  "description": "Github readme",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build": "ts-node index.ts"
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,11 +18,6 @@
     "url": "https://github.com/krzysztofzuraw/krzysztofzuraw/issues"
   },
   "homepage": "https://github.com/krzysztofzuraw/krzysztofzuraw#readme",
-  "devDependencies": {
-    "@types/xml2json": "0.11.3",
-    "ts-node": "9.1.1",
-    "typescript": "4.1.3"
-  },
   "dependencies": {
     "axios": "0.21.1",
     "xml2json": "0.12.0"

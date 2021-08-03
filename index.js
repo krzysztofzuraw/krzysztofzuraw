@@ -1,31 +1,20 @@
 // Based on: https://pawelgrzybek.com/fetch-most-recent-posts-to-your-github-profile-page-using-github-workflow-and-node-js/
 import axios from "axios";
-import parser from "xml2json";
 import fs from "fs";
+import parser from "xml2json";
 
 const FEED_URL = "https://krzysztofzuraw.com/feed.xml";
 const TAG_OPEN = `<!-- FEED-START -->`;
 const TAG_CLOSE = `<!-- FEED-END -->`;
 
-type JSONResponse = {
-  rss: {
-    channel: {
-      item: Array<{
-        title: string;
-        link: string;
-      }>;
-    };
-  };
-};
-
 const fetchPosts = async () => {
-  const response = await axios.get<string>(FEED_URL);
+  const response = await axios.get(FEED_URL);
   const XMLResponse = parser.toJson(response.data);
-  const JSONResponse: JSONResponse = JSON.parse(XMLResponse);
+  const JSONResponse = JSON.parse(XMLResponse);
 
-  const lastestPosts = JSONResponse.rss.channel.item.slice(0, 5);
+  const lastestPosts = JSONResponse.feed.entry.slice(0, 5);
   return lastestPosts
-    .map(({ title, link }) => `- [${title}](${link})`)
+    .map(({ title, link }) => `- [${title}](${link.href})`)
     .join("\n");
 };
 
