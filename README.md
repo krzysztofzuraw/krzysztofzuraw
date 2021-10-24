@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [How to use Deno in Raycast scripts commands](https://krzysztofzuraw.com/blog/2021/raycast-deno/)
+- [How to open custom URL with Next.js dev command](https://krzysztofzuraw.com/blog/2021/nextjs-custom-dev/)
+- [How to open man in Mac OS Preview](https://krzysztofzuraw.com/blog/2021/mac-preview/)
+- [How to add shebang to deno script](https://krzysztofzuraw.com/blog/2021/deno-shebang/)
 - [Amazon Glacier + Arq backup](https://krzysztofzuraw.com/blog/2021/amazon-backup/)
-- [Migrating blog to Eleventy](https://krzysztofzuraw.com/blog/2021/migrating-blog-to-11ty/)
-- [On reading paper magazines](https://krzysztofzuraw.com/blog/2021/paper-magazines/)
-- [New version of writer mode](https://krzysztofzuraw.com/blog/2021/writer-mode-new-version/)
-- [On generating social images for this blog](https://krzysztofzuraw.com/blog/2021/social-images/)
 <!-- FEED-END -->
