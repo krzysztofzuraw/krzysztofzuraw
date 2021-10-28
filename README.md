@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [On setting up Next.js with Docker on Google Cloud](https://krzysztofzuraw.com/blog/2021/nextjs-docker-gcloud/)
 - [How to use Deno in Raycast scripts commands](https://krzysztofzuraw.com/blog/2021/raycast-deno/)
 - [How to open custom URL with Next.js dev command](https://krzysztofzuraw.com/blog/2021/nextjs-custom-dev/)
 - [How to open man in Mac OS Preview](https://krzysztofzuraw.com/blog/2021/mac-preview/)
 - [How to add shebang to deno script](https://krzysztofzuraw.com/blog/2021/deno-shebang/)
-- [Amazon Glacier + Arq backup](https://krzysztofzuraw.com/blog/2021/amazon-backup/)
 <!-- FEED-END -->
