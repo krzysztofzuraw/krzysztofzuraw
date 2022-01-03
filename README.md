@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Raycast script - copy foremost Safari window as markdown link](https://krzysztofzuraw.com/blog/2022/raycast-copy-foremost-safari-window/)
+- [Weekly reads - 52/2021](https://krzysztofzuraw.com/blog/2022/weekly-52/)
+- [Enable spell check on mac](https://krzysztofzuraw.com/blog/2022/spell-check/)
+- [Font smoothing after Big Sur](https://krzysztofzuraw.com/blog/2022/font-smoothing/)
 - [How to enable cmd+tab switcher on all monitors](https://krzysztofzuraw.com/blog/2021/cmd-tab-all-monitors/)
-- [On setting up Next.js with Docker on Google Cloud](https://krzysztofzuraw.com/blog/2021/nextjs-docker-gcloud/)
-- [How to use Deno in Raycast scripts commands](https://krzysztofzuraw.com/blog/2021/raycast-deno/)
-- [How to open custom URL with Next.js dev command](https://krzysztofzuraw.com/blog/2021/nextjs-custom-dev/)
-- [How to open man in Mac OS Preview](https://krzysztofzuraw.com/blog/2021/mac-preview/)
 <!-- FEED-END -->
