@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
-- [Weekly reads - 08/2022](https://krzysztofzuraw.com/blog/2022/weekly-08/)
-- [Book review: Black Box Thinking by Matthew Syed](https://krzysztofzuraw.com/blog/2022/book-black-box-thinking/)
-- [Book review: Egipt - Haram Halal by Piotr Ibrahim Kalwas](https://krzysztofzuraw.com/blog/2021/book-egipt-haram-halal/)
-- [Weekly reads - 05/2022](https://krzysztofzuraw.com/blog/2022/weekly-05/)
 - [HOC for React Query](https://krzysztofzuraw.com/blog/2021/hoc-react-query/)
+- [Generating TypeScript types from Swagger schema](https://krzysztofzuraw.com/blog/2022/typescript-types-swagger/)
+- [Raycast script - copy foremost Safari window as markdown link](https://krzysztofzuraw.com/blog/2022/raycast-copy-foremost-safari-window/)
+- [Book review: Zbrojni by Terry Pratchett](https://krzysztofzuraw.com/blog/2021/book-zbrojni/)
+- [How to enable spell check on mac](https://krzysztofzuraw.com/blog/2021/spell-check/)
 <!-- FEED-END -->
