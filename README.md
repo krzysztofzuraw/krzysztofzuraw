@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Hiding SEO spam from Google using uBlock filters](https://krzysztofzuraw.com/blog/2021/seo-spam/)
 - [HOC for React Query](https://krzysztofzuraw.com/blog/2021/hoc-react-query/)
 - [Generating TypeScript types from Swagger schema](https://krzysztofzuraw.com/blog/2022/typescript-types-swagger/)
 - [Raycast script - copy foremost Safari window as markdown link](https://krzysztofzuraw.com/blog/2022/raycast-copy-foremost-safari-window/)
-- [Book review: Zbrojni by Terry Pratchett](https://krzysztofzuraw.com/blog/2021/book-zbrojni/)
-- [How to enable spell check on mac](https://krzysztofzuraw.com/blog/2021/spell-check/)
+- [Enable spell check on mac](https://krzysztofzuraw.com/blog/2021/spell-check/)
 <!-- FEED-END -->
