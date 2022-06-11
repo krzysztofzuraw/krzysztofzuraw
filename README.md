@@ -15,9 +15,9 @@ If you need a place & help with preparing some event do not hesitate to contact 
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Run script on files changes using nodemon](https://krzysztofzuraw.com/blog/2022/script-nodemon/)
 - [PNPM and monorepo fun](https://krzysztofzuraw.com/blog/2022/pnpm-monorepo/)
 - [Hiding SEO spam from Google using uBlock filters](https://krzysztofzuraw.com/blog/2021/seo-spam/)
 - [HOC for React Query](https://krzysztofzuraw.com/blog/2021/hoc-react-query/)
 - [Generating TypeScript types from Swagger schema](https://krzysztofzuraw.com/blog/2022/typescript-types-swagger/)
-- [Raycast script - copy foremost Safari window as markdown link](https://krzysztofzuraw.com/blog/2022/raycast-copy-foremost-safari-window/)
 <!-- FEED-END -->
