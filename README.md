@@ -16,8 +16,8 @@ If you need a place & help with preparing some event do not hesitate to contact 
 
 <!-- FEED-START -->
 - [HTML table sticky header with borders](https://krzysztofzuraw.com/2022/html-table-sticky-header-with-borders/)
-- [Article - Islands Architecture](https://krzysztofzuraw.com/2022/article-islands-architecture/)
 - [Compiling Tailwind CSS components in monorepo](https://krzysztofzuraw.com/2022/compiling-tailwind-css-components-in-monorepo/)
 - [Run script on files changes using nodemon](https://krzysztofzuraw.com/2022/run-script-on-files-changes-using-nodemon/)
 - [PNPM and monorepo fun](https://krzysztofzuraw.com/2022/pnpm-and-monorepo-fun/)
+- [Hiding SEO spam from Google using uBlock filters](https://krzysztofzuraw.com/2022/hiding-seo-spam-from-google-using-ublock-filters/)
 <!-- FEED-END -->
