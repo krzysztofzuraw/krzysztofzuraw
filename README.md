@@ -15,8 +15,8 @@ If you need a place & help with preparing some event do not hesitate to contact 
 
 <!-- FEED-START -->
 - [Migrating Next.js plugins from next-compose-plugins](https://krzysztofzuraw.com/2022/migrating-next-js-plugins-from-next-compose-plugins/)
-- [Dziobak Literatury - reportaże latynoamerykańskie](https://krzysztofzuraw.com/reading/2022/dziobak-literatury-reportaze-latynoamerykanskie/)
-- [Hardening macOS](https://krzysztofzuraw.com/links/2022/hardening-macos/)
-- [The really important job interview questions engineers should ask (but don't)](https://krzysztofzuraw.com/links/2022/the-really-important-job-interview-questions-engineers-should-ask-but-don-t/)
 - [HTML table sticky header with borders](https://krzysztofzuraw.com/2022/html-table-sticky-header-with-borders/)
+- [Compiling Tailwind CSS components in monorepo](https://krzysztofzuraw.com/2022/compiling-tailwind-css-components-in-monorepo/)
+- [Run script on files changes using nodemon](https://krzysztofzuraw.com/2022/run-script-on-files-changes-using-nodemon/)
+- [PNPM and monorepo fun](https://krzysztofzuraw.com/2022/pnpm-and-monorepo-fun/)
 <!-- FEED-END -->
