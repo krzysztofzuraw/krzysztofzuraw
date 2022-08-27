@@ -12,8 +12,8 @@ const fetchPosts = async () => {
   const XMLResponse = parser.toJson(response.data);
   const JSONResponse = JSON.parse(XMLResponse);
 
-  const lastestPosts = JSONResponse.feed.entry.slice(0, 5);
-  return lastestPosts
+  const latestPosts = JSONResponse.feed.entry.slice(0, 3);
+  return latestPosts
     .map(({ title, link }) => `- [${title}](${link.href})`)
     .join("\n");
 };
