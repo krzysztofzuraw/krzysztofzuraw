@@ -15,5 +15,4 @@
 
 ## Social media
 
-- [Twitter](https://twitter.com/krzysztof_zuraw)
 - [LinkedIn](https://pl.linkedin.com/in/krzysztofzuraw)
