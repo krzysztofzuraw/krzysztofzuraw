@@ -8,9 +8,9 @@
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [How to type Next.js env variables in TypeScript](https://krzysztofzuraw.com/2022/how-to-type-next-js-env-variables-in-typescript/)
 - [Custom font on GitHub](https://krzysztofzuraw.com/2022/custom-font-on-github/)
 - [Migrating Next.js plugins from next-compose-plugins](https://krzysztofzuraw.com/2022/migrating-next-js-plugins-from-next-compose-plugins/)
-- [HTML table sticky header with borders](https://krzysztofzuraw.com/2022/html-table-sticky-header-with-borders/)
 <!-- FEED-END -->
 
 ## Social media
