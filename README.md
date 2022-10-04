@@ -1,6 +1,6 @@
 # Hi, I'm Krzysztof Żuraw 👋🏻
 
-- Team Leader at [Ingrid](https://www.ingrid.com/)
+- Senior Frontend Developer at [Saleor](hhttps://saleor.io/)
 - TypeScript + React
 - [Wroclaw TypeScript](https://www.meetup.com/WrocTypeScript/) meetup co-organizer
 - Specialty coffee nerd
