@@ -8,9 +8,9 @@
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [October 2022 update](https://krzysztofzuraw.com/2022/october-2022-update/)
 - [How to type Next.js env variables in TypeScript](https://krzysztofzuraw.com/2022/how-to-type-next-js-env-variables-in-typescript/)
 - [Custom font on GitHub](https://krzysztofzuraw.com/2022/custom-font-on-github/)
-- [Migrating Next.js plugins from next-compose-plugins](https://krzysztofzuraw.com/2022/migrating-next-js-plugins-from-next-compose-plugins/)
 <!-- FEED-END -->
 
 ## Social media
