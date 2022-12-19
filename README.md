@@ -8,9 +8,9 @@
 ## Recent blog posts ✍️
 
 <!-- FEED-START -->
+- [Eslint rule to restrict imports](https://krzysztofzuraw.com/2022/eslint-rule-to-restrict-imports/)
 - [Executing scripts when docker starts](https://krzysztofzuraw.com/2022/executing-scripts-when-docker-starts/)
 - [October 2022 update](https://krzysztofzuraw.com/2022/october-2022-update/)
-- [How to type Next.js env variables in TypeScript](https://krzysztofzuraw.com/2022/how-to-type-next-js-env-variables-in-typescript/)
 <!-- FEED-END -->
 
 ## Social media
