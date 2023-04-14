@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "deno run --allow-net=krzysztofzuraw.com --allow-read=./README.md --allow-write=./README.md index.ts"
+  }
+}

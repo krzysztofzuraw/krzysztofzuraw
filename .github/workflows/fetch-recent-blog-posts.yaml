@@ -2,6 +2,7 @@ name: Fetch recent blog posts
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   fetch-recent-blog-posts:
@@ -10,14 +11,12 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
-      - name: Setup node
-        uses: actions/setup-node@v3
+      - name: Setup deno
+        uses: denoland/setup-deno@v1
         with:
-          node-version-file: ".nvmrc"
-      - name: Install node dependencies
-        run: npm ci
-      - name: Run node script
-        run: npm run build
+          deno-version: v1.x
+      - name: Run script
+        run: deno task build
       - name: Git setup
         run: git config --global user.email readme-bot@example.com && git config --global user.name readme-bot
       - name: Git commit README.md file
