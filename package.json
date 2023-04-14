@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/krzysztofzuraw/krzysztofzuraw#readme",
   "dependencies": {
-    "axios": "0.27.2",
+    "axios": "1.3.5",
     "xml2json": "0.12.0"
   }
 }

@@ -3,7 +3,7 @@ import axios from "axios";
 import fs from "fs";
 import parser from "xml2json";
 
-const FEED_URL = "https://krzysztofzuraw.com/feeds/all.xml";
+const FEED_URL = "https://krzysztofzuraw.com/rss.xml";
 const TAG_OPEN = `<!-- FEED-START -->`;
 const TAG_CLOSE = `<!-- FEED-END -->`;
 
@@ -12,9 +12,8 @@ const fetchPosts = async () => {
   const XMLResponse = parser.toJson(response.data);
   const JSONResponse = JSON.parse(XMLResponse);
 
-  const latestPosts = JSONResponse.feed.entry.slice(0, 3);
-  return latestPosts
-    .map(({ title, link }) => `- [${title}](${link.href})`)
+  return JSONResponse.rss.channel.item
+    .map(({ title, link }) => `- [${title}](${link})`)
     .join("\n");
 };
 
