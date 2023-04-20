@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Hi, I'm Krzysztof Żuraw
 
 - Senior Frontend Developer at [Saleor](hhttps://saleor.io/)
@@ -16,14 +8,7 @@
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Site search in Raycast](https://krzysztofzuraw.com/blog/2023/site-search-in-raycast/)
 - [Read later with Feedbin via iOS shortcut](https://krzysztofzuraw.com/blog/2023/read-later-with-feedbin-via-ios-shortcut/)
 - [Migrating blog to Astro](https://krzysztofzuraw.com/blog/2023/migrating-blog-to-astro/)
-- [January 2023 update](https://krzysztofzuraw.com/blog/2023/january-2023-update/)
 <!-- FEED-END -->
-
-
-
-
-
-
-

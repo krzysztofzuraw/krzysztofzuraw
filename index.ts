@@ -26,11 +26,7 @@ const indexAfter = readme.indexOf(closeTag);
 const readmeContentChunkBreakBefore = readme.substring(0, indexBefore);
 const readmeContentChunkBreakAfter = readme.substring(indexAfter);
 
-const readmeNew = `
-${readmeContentChunkBreakBefore}
-${markdownPosts}
-${readmeContentChunkBreakAfter}
-`;
+const readmeNew = `${readmeContentChunkBreakBefore}\n${markdownPosts}\n${readmeContentChunkBreakAfter}`;
 
 await Deno.writeTextFile(filePath, readmeNew);
 
