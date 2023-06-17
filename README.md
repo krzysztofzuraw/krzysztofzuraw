@@ -2,7 +2,6 @@
 
 - Senior Frontend Developer at [Saleor](hhttps://saleor.io/)
 - TypeScript + React
-- [Wroclaw TypeScript](https://www.meetup.com/WrocTypeScript/) meetup co-organizer
 - Specialty coffee nerd
 
 ## Recent blog posts
