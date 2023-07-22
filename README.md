@@ -1,6 +1,6 @@
 # Hi, I'm Krzysztof Żuraw
 
-- Senior Frontend Developer at [Saleor](hhttps://saleor.io/)
+- Staff Engineer at [Saleor](hhttps://saleor.io/)
 - TypeScript + React
 - Specialty coffee nerd
 
